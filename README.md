@@ -1,3 +1,24 @@
+## 🛠️ Technologies Used
+
+- **Frontend**:
+  - HTML5
+  - CSS3
+  - JavaScript
+  - React.js
+
+- **Backend**:
+  - Node.js
+  - Express.js
+
+- **Database**:
+  - MongoDB
+  - Mongoose
+
+- **Tools**:
+  - Git & GitHub
+  - Visual Studio Code
+
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
